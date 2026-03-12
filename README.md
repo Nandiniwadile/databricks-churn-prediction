@@ -197,7 +197,6 @@ Possible improvements for this project include:
 ## Author
 
 Nandini Wadile  
-Artificial Intelligence and Data Science Student
 
 This project was developed as part of the **Build with Databricks Project Challenge - 2**.
 
