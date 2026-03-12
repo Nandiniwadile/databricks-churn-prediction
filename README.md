@@ -48,7 +48,7 @@ Values:
 ## Architecture Diagram
 
 <p align="center">
-  <img src="999489fc-8c4a-4037-af29-ac2f093bf1bc.png" width="800"/>
+  <img src="ChatGPT Image Mar 12, 2026, 10_43_52 PM.png" width="800"/>
 </p>
 
 This project follows the **Medallion Data Architecture**, which consists of three layers:
